@@ -23,3 +23,6 @@ Here, 4 models based on text-classification are being imported:
 | Sports    | Model 4    | siebert/sentiment-roberta-large-english    |
 | Politics    | Model 4    | siebert/sentiment-roberta-large-english    |
 | Finance    | Model 4    | siebert/sentiment-roberta-large-english    |
+
+*Dataset is available in "Education.csv", "Sports.csv", "Politics.csv" and "Finance.csv" files*<br>
+*Python Code is available in "Models.ipynb" jupyter notebook*
